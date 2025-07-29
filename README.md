@@ -8,8 +8,6 @@ A flexible and developer-friendly Laravel package that makes translating text be
 
 - 🎯 Simple and fluent translation API
 - 🌐 Supports multiple languages (e.g., English, Yoruba, Hausa, French, etc.)
-- ⚙️ Laravel-ready (6.x – 10.x)
-- 🧱 Follows PSR-4 autoloading and Laravel package structure
 - 🧩 Easily extendable and customizable
 
 ---
