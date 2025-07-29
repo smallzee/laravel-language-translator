@@ -8,7 +8,6 @@ A flexible and developer-friendly Laravel package that makes translating text be
 
 - 🎯 Simple and fluent translation API
 - 🌐 Supports multiple languages (e.g., English, Yoruba, Hausa, French, etc.)
-- 🧩 Easily extendable and customizable
 
 ---
 
