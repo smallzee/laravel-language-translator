@@ -1,6 +1,6 @@
 # 🌍 Smallzee Laravel Language Translator
 
-A flexible and developer-friendly Laravel package for translating text between multiple languages using an external translation API.
+A flexible and developer-friendly Laravel package that makes translating text between multiple languages simple and efficient. It’s designed to help developers build multilingual applications with ease, ensuring smooth integration and a seamless user experience across different regions and languages. With intuitive methods and clean structure, this package supports effortless language handling for global-ready applications.
 
 ---
 
